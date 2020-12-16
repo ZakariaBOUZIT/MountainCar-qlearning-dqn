@@ -16,7 +16,4 @@ training :
 
 Finally :
 
-
-our Agent has actually learned a lot (after 3000 episode)
-
 ![](https://raw.githubusercontent.com/zackq88/MountainCar-using-qlearning-/main/.solution.gif)
