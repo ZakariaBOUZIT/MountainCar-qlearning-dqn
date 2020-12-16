@@ -10,7 +10,7 @@ States = (position,velocity)
 Actions = 0,1,2 (drive left, do nothing , drive right)
 Rewards = for each step that the car does not reach the goal located at position 0.5 the reward is -1. the goal reward is 0.
 
-______________________________________________________________________________________________________________________________
+
 #### Agent:
 
 Solution is based on q-learning , our problem has a continuous states so how to adress this problem ? we can think in 2 approaches :
@@ -20,6 +20,7 @@ Solution is based on q-learning , our problem has a continuous states so how to 
 
 in this solution , we just descretize The States.
 
+____________________________________________________________________________________________________________________________
 ###### training :
 
 ![](https://raw.githubusercontent.com/zackq88/MountainCar-using-qlearning-/main/.train.gif)
