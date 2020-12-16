@@ -1,6 +1,6 @@
 # MountainCar-using-qlearning
 
-###### Problem description : 
+##### Problem description : 
 
 A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum.
 
@@ -13,8 +13,10 @@ Rewards = for each step that the car does not reach the goal located at position
 ###### Agent:
 
 Solution is based on q-learning , our problem has a continuous states so how to adress this problem ? we can think in 2 approaches :
+'''
 1.discretize the States. (alternative approach)
 2.use Deep Q-networks which combine q-learning with deep learning by using a deep neural network as an approximation for the Q-function.
+'''
 in this solution , we just descretize The States.
 
 training :
