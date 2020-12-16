@@ -29,3 +29,4 @@ training :
 Finally :
 
 ![](https://raw.githubusercontent.com/zackq88/MountainCar-using-qlearning-/main/.solution.gif)
+
