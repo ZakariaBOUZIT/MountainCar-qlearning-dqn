@@ -11,7 +11,11 @@ training :
 
 
 
+
+
+
 Finally :
+
 
 our Agent has actually learned a lot (after 3000 episode)
 
