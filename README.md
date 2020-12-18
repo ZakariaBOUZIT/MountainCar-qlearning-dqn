@@ -7,7 +7,9 @@ A car is on a one-dimensional track, positioned between two "mountains". The goa
 #### env :
 
 States = (position,velocity)
+
 Actions = 0,1,2 (drive left, do nothing , drive right)
+
 Rewards = for each step that the car does not reach the goal located at position 0.5 the reward is -1. the goal reward is 0.
 
 
