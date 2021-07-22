@@ -1,4 +1,4 @@
-# MountainCar-using-qlearning
+# MountainCar
 
 #### Problem description : 
 
