@@ -17,10 +17,8 @@ Rewards = for each step that the car does not reach the goal located at position
 
 Solution is based on q-learning , our problem has a continuous states so how to adress this problem ? we can think of 2 approaches :
 
-1. discretize the States. (alternative approach)
+1. discretize the States, so we can use q-learning.
 2. use Deep Q-networks which combine q-learning with deep learning by using a deep neural network as an approximation for the Q-function.
-
-in this solution , we just descretize The States.
 
 ____________________________________________________________________________________________________________________________
 ###### training :
