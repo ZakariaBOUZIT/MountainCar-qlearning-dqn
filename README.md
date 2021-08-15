@@ -26,7 +26,8 @@ ________________________________________________________________________________
 ![](https://raw.githubusercontent.com/zackq88/MountainCar-using-qlearning-/main/.train.gif)
 
 
-###### Finally :
+###### after learning :
 
 ![](https://raw.githubusercontent.com/zackq88/MountainCar-using-qlearning-/main/.solution.gif)
-
+____________________________________________________________________________________________________________________________
+There's a part of learning using neural networks only, trained with saved agent games. [CartpoleNN]
